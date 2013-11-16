@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configuration>
+  <decompositionType>PairwiseDecomposer</decompositionType>
+  <aggregationType>Voting</aggregationType>
+  <dataset>datasets/yeastOrdinal.earff</dataset>
+  <numberOfFolds>10</numberOfFolds>
+  <seedForEvaluation>2</seedForEvaluation>
+  <baseLearnerEnvironment>WekaBaseLearner</baseLearnerEnvironment>
+  <classifierName>weka.classifiers.trees.J48</classifierName>
+  <isSymmetricClassifier>true</isSymmetricClassifier>
+  <calibrationLabel>L0</calibrationLabel>
+  <HTepsilon>0.0050</HTepsilon>
+  <WLWmaxIterations>100</WLWmaxIterations>
+  <WLWepsilon>0.0050</WLWepsilon>
+  <classAttributeConstraint>2</classAttributeConstraint>
+  <decimalPrecision>4</decimalPrecision>
+</configuration>
