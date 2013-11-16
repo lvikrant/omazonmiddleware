@@ -1,0 +1,8 @@
+<deliveryEvent>
+<shipmentId>123</shipmentId>
+</deliveryEvent>    
+
+<exceptionEvent>
+<truckId>1111</truckId>
+<exceptionDescription>"Bad weather and truck got stuck"</exceptionDescription>	
+</exceptionEvent>
