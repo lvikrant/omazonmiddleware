@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Product Menu</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <p class="heading2" align="center">Omazon</p>
+        <form name="frm1" action="addProduct.jsp">
+        <table align="center">
+        <tr>
+            <td align="center" colspan="2"><p class="heading3">Add Product</p></td>
+        </tr>
+        <tr>
+            <td>Product Name<span class="mandatory">(*)</span></td><td><input type="text" name="prodName"></td>
+        </tr>
+        <tr><td>Product Type<span class="mandatory">(*)</span></td><td><select name="prodType"> 
+											  <option value="ST">--Select-- 
+											  <option value="PE">Perishable 
+											  <option value="NP">Non-perishable
+                                                                        </select></td></tr>
+        <tr>
+            <td>Product Price<span class="mandatory">(*)</span></td><td><input type="text" name="prodPrice"></td>
+        </tr>
+					          				  
+        <tr>
+            <td><input type="submit" value="Submit" name="<div>but1</div>"><input type="reset" value="Reset"> </td>
+        </table>
+        </form>
+    </body>
+</html>
