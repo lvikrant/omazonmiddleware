@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+<positionEvents>
+<positionEvent>
+	<truckId>111</truckId>
+	<lat>53.568000000000</lat>
+	<long>10.038000000000</long>
+</positionEvent>
+</positionEvents>
+</root>

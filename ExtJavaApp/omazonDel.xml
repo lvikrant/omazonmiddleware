@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<root>
+<statusEvents>
+<statusEvent>
+<shipmentId>9492</shipmentId>
+</statusEvent>
+<statusEvent>
+<shipmentId>8657</shipmentId>
+</statusEvent>
+<statusEvent>
+<shipmentId>6722</shipmentId>
+</statusEvent>
+<statusEvent>
+<shipmentId>4386</shipmentId>
+</statusEvent>
+</statusEvents>
+</root>
